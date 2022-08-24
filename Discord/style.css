@@ -89,6 +89,11 @@ li {
 
 }
 
+.iframediscord {
+    box-shadow: 7px 9px #4c00ff;
+    border-radius: 25px;
+}
+
 /*** Sign ***/
 
 .sign {
